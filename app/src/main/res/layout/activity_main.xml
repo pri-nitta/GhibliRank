@@ -7,17 +7,11 @@
         android:layout_height="match_parent"
         tools:context=".MainActivity">
 
-    <com.airbnb.lottie.LottieAnimationView
-            android:id="@+id/animationView"
-            android:layout_width="200dp"
-            android:layout_height="200dp"
-            app:lottie_url="https://assets6.lottiefiles.com/packages/lf20_CEyvj2.json"
-            app:lottie_autoPlay="true"
-            app:layout_constraintStart_toStartOf="@+id/gLLeft"
-            app:layout_constraintEnd_toStartOf="@+id/gLRight"
-            app:layout_constraintTop_toTopOf="@+id/gLTop"
-            app:layout_constraintBottom_toTopOf="@+id/edtCEP"
-            app:lottie_loop="true"/>
+    <ImageView
+            android:id="@+id/logoGhibli"
+            android:src="@drawable/ic_studio_ghibli_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
 
     <androidx.constraintlayout.widget.Guideline
             android:id="@+id/gLLeft"
