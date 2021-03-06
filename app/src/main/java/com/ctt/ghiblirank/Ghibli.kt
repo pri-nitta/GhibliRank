@@ -10,7 +10,7 @@ class Ghibli (
     @SerializedName("Diretor") val diretor: String,
     @SerializedName("Ano") val ano: String
         ){
-    override fun toSting(): String{
+    override fun toString(): String{
         return "Titulo: $titulo,\nNome Japonês: $nomeJap,\n" +
                 "Título em romaji: $tituloRom,\n" +
                 "Descrição: $descricao,\n" +
