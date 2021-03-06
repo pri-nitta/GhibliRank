@@ -5,5 +5,8 @@ import retrofit2.http.GET
 import retrofit2.http.Path
 
 interface GhibliService {
-    @GET
+    @GET("tituloInserido/json/")
+    fun buscarTitulo(
+        @Path("tituloInserido") titulo: String
+    ): Call<Ghibli>
 }
