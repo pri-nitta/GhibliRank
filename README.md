@@ -12,4 +12,4 @@ As protagonistas femininas fogem do esterótipo da princesa que necessita ser sa
 - Hackaton do Campinas Tech Talents - Kotlin - 06/03/2021
 - Versão 1.0
 
-<img src="C:\Users\sayur\OneDrive\Imagens\AppGhibliRank.jpeg" alt="AppGhibliRank" style="zoom:50%;" />
+![AppGhibliRank](https://user-images.githubusercontent.com/73479796/110218639-98961200-7e99-11eb-9383-554b3f3280cd.jpeg)
