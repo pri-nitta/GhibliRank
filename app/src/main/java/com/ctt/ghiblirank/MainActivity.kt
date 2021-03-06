@@ -49,7 +49,6 @@ class MainActivity : AppCompatActivity() {
                         }
                     }
                 }
-
                     override fun onFailure(call: Call<Ghibli>, t: Throwable) {
                         respostaFilme.text = "Falhas técnicas!"
                     }

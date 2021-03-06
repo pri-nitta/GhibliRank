@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">GhibliRank</string>
+    <string name="app_name">Ghibli Rank</string>
+    <string name="filme">Buscar!</string>
+    <string name="txt_busca">Digite aqui o filme!</string>
 </resources>
