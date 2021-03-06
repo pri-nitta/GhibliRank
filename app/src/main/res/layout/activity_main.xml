@@ -56,7 +56,7 @@
             android:id="@+id/txtResposta01"
             android:layout_width="300dp"
             android:layout_height="wrap_content"
-            tools:text="Cep xxxxxxx, bla balabla"
+            tools:text="blablalabla"
             android:textSize="15sp"
             app:layout_constraintTop_toBottomOf="@+id/btnBuscarTitulo"
             app:layout_constraintEnd_toEndOf="parent"
