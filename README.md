@@ -1,6 +1,7 @@
 # Studio Ghibli Rank App!
 
 Um app pensado nos fãs dos filmes do Studio Ghibli! ❤️
+![WhatsApp Image 2021-03-06 at 16 23 55](https://user-images.githubusercontent.com/73479796/110218491-cdee3000-7e98-11eb-9d4d-f5ce3df5880d.jpeg)
 
 Aqui você pode encontrar informações sobre seus filmes favoritos!
 
